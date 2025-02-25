@@ -1,1 +1,1 @@
-# vc-geni-fe-public
+# vc-geni-fe
